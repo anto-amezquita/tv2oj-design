@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Fill" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M477.82,707.23h-155.65v-160.28h155.65v160.28Zm-115.65-40h75.65v-80.28h-75.65v80.28Zm100.22-162.76h-123.96l-20.12-238.89V91.32h163.36v174.23l-19.28,238.93Zm-87.19-40h50.29l16.18-200.54V131.32h-83.36v132.59l16.89,200.58Z"/>
+</svg>

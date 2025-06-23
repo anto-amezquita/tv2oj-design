@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Fill" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 40px;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-1" points="504.32 335.87 690 335.87 690 583.65 644.4 583.65 642.75 666.48 542.84 583.65 340.99 583.65 340.99 473.98"/>
+  <polygon class="cls-1" points="110 182.82 110 461.87 167.24 461.87 165.84 546.37 261.9 461.87 352.48 461.87 504.32 461.87 504.32 332.12 504.32 182.82 110 182.82"/>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Fill" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M624.34,707.96H162.39V92.04H478.75l145.59,146.74v469.17Zm-421.95-40h381.95V255.26l-122.25-123.22H202.39V667.96Z"/>
+  <polygon class="cls-1" points="604.34 267.02 450.42 267.02 450.42 112.04 490.42 112.04 490.42 227.02 604.34 227.02 604.34 267.02"/>
+  <rect class="cls-1" x="241.79" y="235.1" width="175.13" height="40"/>
+  <rect class="cls-1" x="245.57" y="321.75" width="295.59" height="40"/>
+  <rect class="cls-1" x="245.57" y="403.46" width="295.59" height="40"/>
+  <rect class="cls-1" x="245.57" y="485.18" width="295.59" height="40"/>
+  <rect class="cls-1" x="245.57" y="566.89" width="295.59" height="40"/>
+</svg>
